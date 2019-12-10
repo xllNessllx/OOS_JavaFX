@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOS_JavaFX.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOS_JavaFX.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOS_JavaFX/META-INF/OOS_JavaFX.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOS_JavaFX/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOS_JavaFX/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +72,12 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1UiN9neDrkNV93BAVK3ljEhAFxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -86,12 +98,13 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="C:/JavaFX/javafx-sdk-11.0.2/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -264,6 +277,8 @@
       <workItem from="1575839417519" duration="1545000" />
       <workItem from="1575840986823" duration="115000" />
       <workItem from="1575908838467" duration="6324000" />
+      <workItem from="1575914690195" duration="260000" />
+      <workItem from="1575982599924" duration="1803000" />
     </task>
     <servers />
   </component>
@@ -283,33 +298,43 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="697" y="281" key="FileChooserDialogImpl/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575908858506" />
-    <state width="1815" height="285" key="GridCell.Tab.0.bottom" timestamp="1575915168288">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1575984419109">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1575984419109" />
     <state width="1815" height="285" key="GridCell.Tab.0.bottom/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575915168288" />
-    <state width="1815" height="285" key="GridCell.Tab.0.center" timestamp="1575915168288">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1431" height="224" key="GridCell.Tab.0.center" timestamp="1575984419109">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1575984419109" />
     <state width="1815" height="285" key="GridCell.Tab.0.center/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575915168288" />
-    <state width="1815" height="285" key="GridCell.Tab.0.left" timestamp="1575915168288">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1431" height="224" key="GridCell.Tab.0.left" timestamp="1575984419109">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1575984419109" />
     <state width="1815" height="285" key="GridCell.Tab.0.left/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575915168288" />
-    <state width="1815" height="285" key="GridCell.Tab.0.right" timestamp="1575915168288">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state width="1431" height="224" key="GridCell.Tab.0.right" timestamp="1575984419109">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state width="1431" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1575984419109" />
     <state width="1815" height="285" key="GridCell.Tab.0.right/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575915168288" />
     <state x="471" y="114" key="SettingsEditor" timestamp="1575908879299">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="471" y="114" key="SettingsEditor/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575908879299" />
-    <state x="696" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575835960707">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="565" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575914767119">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state x="565" y="346" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/62.0.1474.864@62.0.1474.864" timestamp="1575914767119" />
     <state x="696" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575835960707" />
-    <state x="762" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575836040557">
-      <screen x="62" y="0" width="1858" height="1080" />
+    <state x="617" y="194" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575914772367">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state x="617" y="194" key="com.intellij.testIntegration.createTest.CreateTestDialog/62.0.1474.864@62.0.1474.864" timestamp="1575914772367" />
     <state x="762" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog/62.0.1858.1080/1982.0.1618.1050@62.0.1858.1080" timestamp="1575836040557" />
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1575983506251">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="462" y="181" width="672" height="678" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1575983506251" />
   </component>
 </project>
