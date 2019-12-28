@@ -46,6 +46,9 @@ public class BenutzerVerwaltungAdmin implements BenutzerVerwaltung, Serializable
         if(benutzer.passWort.length == 0){
             throw  new IllegalArgumentException();
         }
+        if(benutzerOk(benutzer)) {
+            throw new IOException();
+        }
             FileInputStream fis = new FileInputStream("daten.s");
             ObjectInputStream is = new ObjectInputStream(fis);
             ben_List = (Vector<Benutzer>) is.readObject();

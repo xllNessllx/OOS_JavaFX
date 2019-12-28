@@ -10,6 +10,12 @@ import java.awt.*;
 
 public class AnmeldungsController {
 
+    private MainApplication main_app;
+
+    void setApp(MainApplication n_app){
+        main_app = n_app;
+    }
+
     @FXML
     TextField user;
     @FXML
@@ -31,11 +37,15 @@ public class AnmeldungsController {
         else if(pw1.equals(pw2)){
             Benutzer benutzer = new Benutzer(nutzer,pw1);
             System.out.println(benutzer.toString());
-            Stage stage = (Stage) button.getScene().getWindow();
-            stage.close();
+            main_app.neuerBenutzer(benutzer);
         } else {
             user.setText("Passwort != Wiederholung");
         }
+    }
+
+    @FXML
+    void anmeldeError(String error_msg){
+        user.setText(error_msg);
     }
 
 }
